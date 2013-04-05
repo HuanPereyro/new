@@ -1,3 +1,5 @@
+﻿// test
+
 <a href="http://www.unako.org/corporateclients">df</a>
 <?php
 	# MySQL через PDO_MYSQL  
